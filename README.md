@@ -14,5 +14,8 @@ This topic is to explore whether this loan is for high risk or low risk. The dat
 
 We runed 3 models , KNN,  Logistic Regression and XGBoost model.
 The results of the assessment of the models are as follows.
-![image](https://user-images.githubusercontent.com/33664323/115121870-e4fe6280-9fac-11eb-8d63-63e6cc627cef.png)
-                           Evaluation for KNN models
+![image](https://user-images.githubusercontent.com/33664323/115121919-15de9780-9fad-11eb-80bd-76fdd0cd901a.png)
+![image](https://user-images.githubusercontent.com/33664323/115121931-242cb380-9fad-11eb-857a-e5cb3b955f0b.png)
+
+
+Finally We can see here that the XGBoost model has the best results, predicting 97.2% of the data that can be repaid and 88.4% of the data that cannot be repaid, for an overall prediction accuracy of 93.7%. Good job!
